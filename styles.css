@@ -28,10 +28,10 @@ color : white;
 
 .Exposition1 {
 font-size : 50px;
-width : 50%;
-height : 100px;
-padding : 16px;
-border : black solid 10px;
+width : 50vw;
+height : 25vh;
+padding : 10px;
+border :  solid 10px;
 margin : 2px;
 text-align : center;
 background-color : #352f44;
