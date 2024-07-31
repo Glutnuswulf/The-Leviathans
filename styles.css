@@ -30,8 +30,8 @@ color : white;
 font-size : 40px;
 width : 50vw;
 height : 15vh;
-padding : 5px;
-border :  solid 10px;
+padding : 16px;
+border :  black solid 10px;
 margin : 2px;
 background-color : #352f44;
 color: #dbd8e3 ;
@@ -43,19 +43,19 @@ background-color : #5c5470;
 width : 50vw;
 padding : 16px;
 border : black solid 10px;
-color: #dbd8e3; 
+color: #dbd8e3;
+margin: 2px;
 }
   
 .Characters {
-font-size : 50px;
-width : 50%;
-height : 75px;
-padding : 25px;
-border : black solid 10px;
+font-size : 40px;
+width : 50vw;
+height : 15vh;
+padding : 16px;
+border :  black solid 10px;
 margin : 2px;
-text-align : center;
 background-color : #352f44;
-color: #dbd8e3;
+color: #dbd8e3 ;
 }
   
 .Character-Nav {
@@ -86,25 +86,24 @@ margin : 5px;
 }
   
 .Shops {
-font-size : 50px;
-width : 50%;
-height : 75px;
-padding : 25px;
-border : black solid 10px;
+font-size : 40px;
+width : 50vw;
+height : 15vh;
+padding : 16px;
+border :  black solid 10px;
 margin : 2px;
-text-align : center;
 background-color : #352f44;
+color: #dbd8e3 ;
 }
   
 .General-Store {
 font-size : 30px;
-background-color : rgb(208, 248, 255);
-width : 50%;
-padding : 25px;
+background-color : #5c5470;
+width : 50vw;
+padding : 16px;
 border : black solid 10px;
-margin : 5px;
-justify-content : space-between;
-text-align : center;
+color: #dbd8e3;
+margin: 2px;
 }
   
 table {
