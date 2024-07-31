@@ -4,14 +4,14 @@
 
 
 .topnav {
-    background-color: #333;
+    background-color: #dbd8e3;
     overflow: hidden;
   }
   
   
   .topnav a {
     float: left;
-    color: #f2f2f2;
+    color: #5c5470;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -26,7 +26,7 @@
   
   
   .topnav a.active {
-    background-color: #04AA6D;
+    background-color:#352f44;
     color: white;
   }
 
@@ -39,7 +39,7 @@
     border: 10px solid black;
     margin: 2px;
     text-align: center;
-    background-color: #04AA6D;
+    background-color: #2a2438;
 }
 
 .exposition {
@@ -62,7 +62,7 @@
     border: 10px solid black;
     margin: 2px;
     text-align: center;
-    background-color: #04AA6D;
+    background-color: #2a2438;
 }
 
 
