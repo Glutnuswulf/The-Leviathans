@@ -27,10 +27,10 @@ color : white;
 }
 
 .Exposition1 {
-font-size : 50px;
+font-size : 40px;
 width : 50vw;
-height : 25vh;
-padding : 10px;
+height : 15vh;
+padding : 5px;
 border :  solid 10px;
 margin : 2px;
 background-color : #352f44;
@@ -40,7 +40,7 @@ color: #dbd8e3 ;
 .exposition {
 font-size : 30px;
 background-color : #5c5470;
-width : 50%;
+width : 50vw;
 padding : 16px;
 border : black solid 10px;
 color: #dbd8e3; 
