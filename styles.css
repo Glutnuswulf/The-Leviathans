@@ -163,3 +163,20 @@ body {
 @media screen and (max-height: 425px) and (min-aspect-ratio: 7/4) {
 body {
 }
+
+
+	.first-color { 
+	background: #dbd8e3; 
+}
+	
+.second-color { 
+	background: #5c5470; 
+}
+
+.third-color { 
+	background: #352f44; 
+}
+
+.fourth-color { 
+	background: #2a2438; 
+}
