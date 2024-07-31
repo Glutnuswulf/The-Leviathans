@@ -142,27 +142,7 @@ th{
 
 
 
-/* || MEDIUM */
-@media screen and (min-width: 768px) {
-body {
-}
 
-/* || LARGE */
-@media screen and (min-width: 992px) {
-body {
-	
-}
-
-/* || XL */
-@media screen and (min-width: 1200px) {
-body {
-	
-}
-
-/* || MOBILE DEVICE LANDSCAPE */
-@media screen and (max-height: 425px) and (min-aspect-ratio: 7/4) {
-body {
-}
 
 
 	.first-color { 
