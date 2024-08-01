@@ -8,7 +8,20 @@
    <title>Affairs of Time & Fate</title>
   <link href="styles.css"" rel="stylesheet" />
   <title>The Affairs of Time & Fate</title>
-  <script src="myScript.js"></script>
+  
+  Enter password: <input id='password' type='text'  />
+<a href="The-Serene-Moon.html" onclick="javascript:return validatePass()">enter your password and click this</a>
+<script>
+function validatePass(){
+    if(document.getElementById('password').value == '1234'){
+        return true;
+    }else{
+        alert('wrong password!!');
+        return false;
+    }
+}
+</script>
+  
   </head>
     
   <div class="topnav">
@@ -64,11 +77,6 @@
 
            
         </div>
-        <hr>
-
-
- 
-    
-           
+        <hr>           
 </body>
 </html>
