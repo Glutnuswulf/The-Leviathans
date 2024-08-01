@@ -58,6 +58,20 @@
             It is said the pieces of Fate could pull themselves together again. 
             And Time is always waiting. 
             </p>
+
+           Enter password: <input id='password' type='text' />
+      <a href="The-Serene-Moon.html" onclick="javascript:return validatePass()"> Who is the solace in the dark and the guide of dreams </a>
+      <script>
+        function validatePass(){
+            if(document.getElementByID('password') == 'eldra'){
+                return true;
+            }else{
+                alert('Plane walkers are unwelcome');
+                return false;
+            }
+        }
+        
+  </script>
         </div>
         <hr>
 
