@@ -1,7 +1,10 @@
 body {
-  background: radial-gradient(circle at bottom, transparent 24%, #4f46e4 25%, #4f46e4 30%, transparent 31%, transparent 39%, #4f46e4 40%, #4f46e4 45%, transparent 46%), radial-gradient(circle at top, transparent 24%, #4f46e4 25%, #4f46e4 30%, transparent 31%, transparent 39%, #4f46e4 40%, #4f46e4 45%, transparent 46%), radial-gradient(circle at left, transparent 24%, #4f46e4 25%, #4f46e4 30%, transparent 31%, transparent 39%, #4f46e4 40%, #4f46e4 45%, transparent 46%), radial-gradient(circle at right, transparent 24%, #4f46e4 25%, #4f46e4 30%, transparent 31%, transparent 39%, #4f46e4 40%, #4f46e4 45%, transparent 46%);
+  background: radial-gradient(circle at bottom, transparent 24%, #2a2438 25%, #2a2438 30%, transparent 31%, transparent 39%, #2a2438 40%, #2a2438 45%, transparent 46%), 
+    radial-gradient(circle at top, transparent 24%, #2a2438 25%, #2a2438 30%, transparent 31%, transparent 39%, #2a2438 40%, #2a2438 45%, transparent 46%), 
+    radial-gradient(circle at left, transparent 24%, #2a2438 25%, #2a2438 30%, transparent 31%, transparent 39%, #2a2438 40%, #2a2438 45%, transparent 46%), 
+    radial-gradient(circle at right, transparent 24%, #2a2438 25%, #2a2438 30%, transparent 31%, transparent 39%, #2a2438 40%, #2a2438 45%, transparent 46%);
         background-size: 3em 3em;
-        background-color: 2a2438;
+        background-color: #352f44;
         opacity: 1
 }
 
