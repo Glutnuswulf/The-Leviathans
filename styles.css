@@ -1,12 +1,8 @@
 body {
-  background:
-    conic-gradient(at 40% 40%,#0000 75%,var(--c2) 0) 
-     calc(9*var(--s)) calc(9*var(--s))/
-     calc(5*var(--s)) calc(5*var(--s)),
-    calc(8*var(--s)) calc(8*var(--s)) var(--g),
-    calc(3*var(--s)) calc(3*var(--s)) var(--g),
-    linear-gradient( 45deg,var(--c)) 0 0/var(--d),
-    linear-gradient(-45deg,var(--c)) 0 0/var(--d) var(--c2);
+  background: radial-gradient(circle at bottom, transparent 24%, #4f46e4 25%, #4f46e4 30%, transparent 31%, transparent 39%, #4f46e4 40%, #4f46e4 45%, transparent 46%), radial-gradient(circle at top, transparent 24%, #4f46e4 25%, #4f46e4 30%, transparent 31%, transparent 39%, #4f46e4 40%, #4f46e4 45%, transparent 46%), radial-gradient(circle at left, transparent 24%, #4f46e4 25%, #4f46e4 30%, transparent 31%, transparent 39%, #4f46e4 40%, #4f46e4 45%, transparent 46%), radial-gradient(circle at right, transparent 24%, #4f46e4 25%, #4f46e4 30%, transparent 31%, transparent 39%, #4f46e4 40%, #4f46e4 45%, transparent 46%);
+        background-size: 3em 3em;
+        background-color: 2a2438;
+        opacity: 1
 }
 
   .video-background {
