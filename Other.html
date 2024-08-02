@@ -5,8 +5,8 @@
 
   <link href="styles.css"" rel="stylesheet" />
 <div class="password">
-Enter password: <input id='password' type='text'  />
-<a href="The-Serene-Moon.html" onclick="javascript:return validatePass()">Who is the moon mother and keeper of dreams</a>
+Who is the Moon Mother and Keeper of Dreams: <input id='password' type='text'  />
+<a href="The-Serene-Moon.html" onclick="javascript:return validatePass()">Answer</a>
 <script>
 function validatePass(){
     if(document.getElementById('password').value == 'eldra'){
@@ -15,6 +15,13 @@ function validatePass(){
         alert('those not of the faith are unwelcome');
         return false;
     }
+  document.getElementById("password")
+    .addEventListener("keyup", function(event) {
+    event.preventDefault();
+    if (event.keyCode === 13) {
+        document.getElementById("password").click();
+    }
+});
 }
 </script>
 </div>
