@@ -150,14 +150,13 @@ text-align : center;
 }
 
 .password {
-  background-color: #5c5470;
+  background-color: #dbd8e3;
   width : 50vw;
   padding : 16px;
   border : black solid 10px;
-  color:  #dbd8e3;
   margin: 2px;
   z-index: 999;
-  text-decoration:none
+  text-decoration:underline;
   
 }
 
