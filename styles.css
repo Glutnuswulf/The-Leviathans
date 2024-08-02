@@ -23,8 +23,10 @@ text-align : center;
 padding : 14px 16px;
 text-decoration : none;
 font-size : 17px;
-  z-index: 999;
-  border: black solid 10px;
+z-index: 999;
+border: black solid 10px;
+width: 50vw;
+
 }
 
 .topnav a:hover {
@@ -40,7 +42,7 @@ color : white;
 .Exposition1 {
 width : 50vw;
 height : 15vh;
-padding : 20px;
+padding : 16px;
 border :  black solid 10px;
 margin : 2px;
 background-color : #352f44;
