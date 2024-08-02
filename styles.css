@@ -34,6 +34,7 @@ padding : 14px 16px;
 text-decoration : none;
 font-size : 17px;
   z-index: 999;
+  border: black solid 10px;
 }
 
 .topnav a:hover {
