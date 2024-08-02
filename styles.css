@@ -60,7 +60,6 @@ margin: 2px;
 }
   
 .Characters {
-font-size : 40px;
 width : 50vw;
 height : 15vh;
 padding : 16px;
@@ -68,7 +67,7 @@ border :  black solid 10px;
 margin : 2px;
 background-color : #352f44;
 color: #dbd8e3 ;
-z-index: 999;
+font-size : 35px;
 }
   
 .Character-Nav {
@@ -104,7 +103,6 @@ color:  #dbd8e3;
 }
   
 .Shops {
-font-size : 40px;
 width : 50vw;
 height : 15vh;
 padding : 16px;
@@ -112,7 +110,7 @@ border :  black solid 10px;
 margin : 2px;
 background-color : #352f44;
 color: #dbd8e3 ;
-z-index: 999;
+font-size : 35px;
 }
   
 .General-Store {
