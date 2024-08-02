@@ -23,15 +23,8 @@ text-align : center;
 padding : 14px 16px;
 text-decoration : none;
 font-size : 17px;
-z-index: 999;
 border: black solid 10px;
-background: radial-gradient(circle at bottom, transparent 24%, #2a2438 25%, #2a2438 30%, transparent 31%, transparent 39%, #2a2438 40%, #2a2438 45%, transparent 46%), 
-    radial-gradient(circle at top, transparent 24%, #2a2438 25%, #2a2438 30%, transparent 31%, transparent 39%, #2a2438 40%, #2a2438 45%, transparent 46%), 
-    radial-gradient(circle at left, transparent 24%, #2a2438 25%, #2a2438 30%, transparent 31%, transparent 39%, #2a2438 40%, #2a2438 45%, transparent 46%), 
-    radial-gradient(circle at right, transparent 24%, #2a2438 25%, #2a2438 30%, transparent 31%, transparent 39%, #2a2438 40%, #2a2438 45%, transparent 46%);
-        background-size: 3em 3em;
-        background-color: #352f44;
-        opacity: 1
+background-color : #dbd8e3;
 
 }
 
