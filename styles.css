@@ -16,6 +16,12 @@ overflow : hidden;
 z-index: 999;
 }
 
+.logo {
+  float: left;
+  height: 1%;
+  width: 1%;
+}
+
 .topnav a {
 float : left;
 color : #5c5470;
