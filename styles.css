@@ -17,9 +17,8 @@ z-index: 999;
 }
 
 .logo {
-  float: left;
-  height: 1%;
-  width: 1%;
+height:1px;
+width:1px;
 }
 
 .topnav a {
